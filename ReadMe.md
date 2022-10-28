@@ -1,5 +1,6 @@
 # PuffOfChats
-A function to allow for easy shaped wordcloud creation
+A Natural Language Processing function to allow you to scrub through predefined RSS feeds and scrape the <br>
+important content of several articles from several feeds for easy shaped wordcloud creation.
 
 ## Installation
 Clone to the directory of choice, then Pip install the requirements.txt
